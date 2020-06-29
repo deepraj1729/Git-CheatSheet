@@ -23,10 +23,11 @@ Configuring user information used across all local repositories in Terminal/Bash
 # SETUP & INIT:
 Configuring user information, initializing and cloning repositories
 
-i.   Initialize an existing directory as a Git repository
-      git init
+#### i.   Initialize an existing directory as a Git repository
 
-ii.  Download an entire repository from a hosted location via URL
+      git init
+#### ii.  Download an entire repository from a hosted location via URL
+
       git clone [repo url]
 
 # STAGE & SNAPSHOT:
